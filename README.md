@@ -8,7 +8,9 @@ The goal of this project was to transform raw data into an interactive dashboard
 
 Problem Statement
 
-The raw attendance dataset was unstructured, making it difficult to analyze and visualize directly. Some of the key challenges included:
+The raw attendance dataset was unstructured, making it difficult to analyze and visualize directly.
+
+Some of the key challenges included:
 
 Data Structure: The original dataset had Employee Codes and Names as columns, requiring restructuring to fit into a tabular format.
 
